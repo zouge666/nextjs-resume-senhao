@@ -1,0 +1,13 @@
+site:
+  title: "Portfolio Starter"
+  description: "Config-driven Next.js App Router portfolio template"
+  locale: "en-US"
+  heroAvatar: "/avatar-placeholder.svg"
+navigation:
+  - top
+  - timeline
+  - projects
+  - publications
+  - skills
+  - awards
+socialFallback: "#"
