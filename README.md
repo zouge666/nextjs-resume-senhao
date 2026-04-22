@@ -34,7 +34,7 @@ npm run build
 
 ## Deploy
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/zouge666/fromsinglepagetoframework)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/zouge666/nextjs-resume-senhao)
 
 ## Privacy by Default
 
